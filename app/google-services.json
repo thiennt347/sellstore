@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "819824799966",
+    "firebase_url": "https://sellstore-727e1.firebaseio.com",
+    "project_id": "sellstore-727e1",
+    "storage_bucket": "sellstore-727e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819824799966:android:c44f0375eb61bb9a",
+        "android_client_info": {
+          "package_name": "com.sellproducts.thiennt.sellstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819824799966-6a8e30ae7i50jbov2auknb69qovpfo7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sellproducts.thiennt.sellstore",
+            "certificate_hash": "53c96f1375e1c0f8d384d4d1cbfa65930a863448"
+          }
+        },
+        {
+          "client_id": "819824799966-l83sio0n7t6v42q6imion3sni6m9vksp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs_zsxXslXIdLhwKjssj2D5kEsMP52ca0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819824799966-l83sio0n7t6v42q6imion3sni6m9vksp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

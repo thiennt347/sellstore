@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/ic_shop_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Trang Chủ" />
+        <item
+            android:id="@+id/nav_HomeAddress"
+            android:icon="@drawable/ic_account_box_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Cập Nhật Thông Tin Tài Khoản" />
+        <item
+            android:id="@+id/nav_Favorites"
+            android:icon="@drawable/ic_favorite_border_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Sản Phẩm Yêu Thích" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Giỏ Hàng" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Cài Đặt" />
+        <item
+            android:id="@+id/nav_Oder"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Đơn Hàng" />
+        <item
+            android:id="@+id/naw_Log_out"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="Đăng Xuất" />
+    </group>
+
+</menu>
